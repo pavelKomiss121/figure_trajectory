@@ -1,0 +1,3 @@
+C:\labs\aisd\4 семестр\практика\траектория\траектория\x64\Debug\траектория.vcxproj.AssemblyReference.cache
+C:\labs\aisd\4 семестр\практика\траектория\траектория\x64\Debug\траектория.MyForm.resources
+C:\labs\aisd\4 семестр\практика\траектория\траектория\x64\Debug\траектория.vcxproj.GenerateResource.cache
